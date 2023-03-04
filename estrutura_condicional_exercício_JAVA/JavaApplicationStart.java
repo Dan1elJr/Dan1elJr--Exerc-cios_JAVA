@@ -23,10 +23,7 @@ public class JavaApplicationStart {
             System.out.println("entrada liberada");
         else
             System.out.println("entrada negada");
-        
-        
-        
-      
+       
     }
     
     
